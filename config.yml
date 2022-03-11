@@ -64,6 +64,7 @@ params:
   logo: /img/brut.png
   incidentPostsPerPage: 8
   googleAnalytics: UA-00000000-1
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -72,7 +73,10 @@ params:
   incidentHistoryFormat: yearly
   disableIncidentHistory: false
   ok: "#008000"
-  categories: []
+  categories:
+    - name: Fibre
+    - name: Telephonie
+    - name: Site WEB
   description: >-
     ZETARK 
 

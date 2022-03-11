@@ -43,6 +43,8 @@ params:
       category: Fibre
     - name: "Hébergement Dédié "
       category: Services WEB
+    - name: Hébergement Mutualisé
+      category: Services WEB
     - name: 4G
       description: ""
       category: Telephonie

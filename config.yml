@@ -33,25 +33,30 @@ enableGitInfo: true
 params:
   skipSeconds: false
   useRelativeTime: true
-  disableDarkMode: false
+  disableDarkMode: true
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
-      category: Uncategorized
+    - name: Cap Fibre
+      category: Fibre
+    - name: Covage
+      category: Fibre
+    - name: Hébergement Mutualisé
+      description: ""
+      category: Services WEB
       link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and
-        video. It is reliant on our CDN.
-      category: Uncategorized
+    - name: "Hébergement Dédié "
+      category: Services WEB
+    - name: 4G
+      description: ""
+      category: Téléphonie
+    - name: Trunk
+      category: Téléphonie
+    - name: Centrex
+      category: Téléphonie
+      description: Services de téléphonie
+    - category: Téléphonie
+      name: Mobile
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -67,13 +72,7 @@ params:
   incidentHistoryFormat: yearly
   disableIncidentHistory: false
   ok: "#008000"
-  categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
-    - name: Uncategorized
-      untitled: true
+  categories: []
   description: >-
     ZETARK 
 

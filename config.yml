@@ -71,7 +71,7 @@ params:
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: monthly
-  disableIncidentHistory: true
+  disableIncidentHistory: false
   ok: "#008000"
   categories:
     - name: Fibre

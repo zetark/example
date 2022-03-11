@@ -90,4 +90,4 @@ params:
 
     Et ainsi vous aider à vous consacrer sereinement à votre cœur de métier.
   enableCustomHTML: false
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true

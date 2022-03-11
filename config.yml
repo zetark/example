@@ -49,13 +49,13 @@ params:
       category: Services WEB
     - name: 4G
       description: ""
-      category: Téléphonie
+      category: Telephonie
     - name: Trunk
-      category: Téléphonie
+      category: Telephonie
     - name: Centrex
-      category: Téléphonie
-      description: Services de téléphonie
-    - category: Téléphonie
+      category: Telephonie
+      description: ""
+    - category: Telephonie
       name: Mobile
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
@@ -76,7 +76,7 @@ params:
   categories:
     - name: Fibre
     - name: Telephonie
-    - name: Site WEB
+    - name: Services WEB
   description: >-
     ZETARK 
 

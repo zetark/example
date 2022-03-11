@@ -41,10 +41,6 @@ params:
       category: Fibre
     - name: Covage
       category: Fibre
-    - name: Hébergement Mutualisé
-      description: ""
-      category: Services WEB
-      link: https://example.com/
     - name: "Hébergement Dédié "
       category: Services WEB
     - name: 4G
